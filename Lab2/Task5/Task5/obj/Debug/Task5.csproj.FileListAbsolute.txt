@@ -1,0 +1,10 @@
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.Form1.resources
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.Properties.Resources.resources
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\Task5\Task5\bin\Debug\Task5.exe.config
+C:\Users\szymo\source\repos\Task5\Task5\bin\Debug\Task5.exe
+C:\Users\szymo\source\repos\Task5\Task5\bin\Debug\Task5.pdb
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.exe
+C:\Users\szymo\source\repos\Task5\Task5\obj\Debug\Task5.pdb

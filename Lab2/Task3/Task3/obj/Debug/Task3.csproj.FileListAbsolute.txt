@@ -1,0 +1,10 @@
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab2\Task3\Task3\obj\Debug\Task3.pdb
