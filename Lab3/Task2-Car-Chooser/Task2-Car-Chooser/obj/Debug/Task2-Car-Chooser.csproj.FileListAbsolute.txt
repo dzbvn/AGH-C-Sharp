@@ -1,0 +1,16 @@
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\bin\Debug\Task2-Car-Chooser.exe.config
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\bin\Debug\Task2-Car-Chooser.exe
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\bin\Debug\Task2-Car-Chooser.pdb
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2-Car-Chooser.csproj.AssemblyReference.cache
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2_Car_Chooser.Form1.resources
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2_Car_Chooser.Properties.Resources.resources
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2-Car-Chooser.csproj.GenerateResource.cache
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2-Car-Chooser.csproj.CoreCompileInputs.cache
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2-Car-Chooser.exe
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2-Car-Chooser.pdb
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2_Car_Chooser.ConfigureForm.resources
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2-Car-Chooser.csproj.CopyComplete
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2_Car_Chooser.AddForm.resources
+C:\Users\szymo\AGH\Semestr IV\PZ2\Lab3\Task2-Car-Chooser\Task2-Car-Chooser\obj\Debug\Task2_Car_Chooser.BookForm.resources

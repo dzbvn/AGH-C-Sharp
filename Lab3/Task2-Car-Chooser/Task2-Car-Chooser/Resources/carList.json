@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "BMW",
+    "model": "iX",
+    "engine": "Electric",
+    "color": "White",
+    "imgSrc": null
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "engine": "Petrol",
+    "color": "Grey",
+    "imgSrc": null
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "engine": "Diesel",
+    "color": "Dark blue",
+    "imgSrc": null
+  },
+  {
+    "brand": "Audi",
+    "model": "R8",
+    "engine": "Petrol",
+    "color": "White",
+    "imgSrc": null
+  },
+  {
+    "brand": "Audi",
+    "model": "R8",
+    "engine": "Petrol",
+    "color": "Grey",
+    "imgSrc": null
+  }
+]
